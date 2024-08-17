@@ -1,0 +1,50 @@
+{
+    "clientInformation": {
+        "clientID": "ASQ-NUBT-92",
+        "Account_No:": "1000108017 (Personal)",
+        "Client_Name:" :"Ashique-Ur-Rahman",
+        "Email:" :"ashik.rahman713@gmail.com",
+        "Bank A/C:" :"DBBL | ***4854",
+    },
+    "MemberShip_Package": {
+        "Account_Status:" :"Activated",
+        "Membership_Package:" :"Premium Plan
+        (Charlie - 10,000 BDT/Session)",
+        "Available_Balance:" :"502.83 BDT",
+    },
+    {
+        "Pricing_and_Buying": {
+            "Buy_Limit": "#Unlimited",
+            "Cost_per_Email_(USA)": "210 BDT
+            (Min. - 50 | Max - Unlimited)",
+            "Cost per Email (Vietnum):": "200 BDT
+            (Min. - 50 | Max - Unlimited)",
+            "Cost per Email (Singapore):": "140 BDT
+            (Min. - 50 | Max - Unlimited)",
+        },
+        "Stocks_&_Sales": {
+            "Txn_ID:": "10009072450",
+            "Email(s)_Bought:": "20#USA",
+            "Email(s)_Sold:": "11",
+            "Available_Email(s):": "9#USA",
+            "Disabled:": "15#Email(s)",
+            "Current_Selling_Rate:": "250 BDT - 280 BDT",
+            "Est._Net_Worth:": "5,000 BDT - 5,600 BDT",
+            "Total_Sale:": "2,500 BDT",
+            "Total_Profit:": "Calculating.."
+            "Status:": "#Processing",
+        },
+        "Transaction(s)_Pending": {
+            "JYN-AVR-239": "1,500 BDT",
+            "APB-NUBT-42": "900 BDT",
+            "FSL-KMC-58": "2,400 BDT",
+            "Total_Pending(s):": "4,800 BDT",
+        },
+        "OverView": {
+            "Est._Balance:": "5,000 BDT - 5,600 BDT",
+            "Available_Balance:": "2,500 BDT",
+            "Debt.": "4,200 BDT",
+            "WithDrawable_Balance:": "550 BDT",
+        }
+    }
+}
